@@ -1,0 +1,48 @@
+body{
+  margin:0;
+}
+#img1{
+  width:630px;
+  height:650px;
+  
+}
+.secondHalf{
+  float:right;
+}
+.inp{
+  padding:15px 20px;
+  border: none;
+  border:1px solid #E6ECF0;
+  border-radius:3px;
+}
+#login{
+  margin-right:90px;
+  margin-top:30px;
+  
+}
+#button1{
+ border:none;
+ padding:14px;
+ border-radius:20px;
+ background-color: #ffffff;
+ border: 1px solid #1DA1F2;
+ font-weight: bold;
+ font-size:14px;
+ color:#1DA1F2;
+}
+#pass{
+  margin-left:-30px;
+}
+a{
+  margin-left:220px;
+  text-decoration:none;
+  color:#ccc;
+  font-family:tahoma;
+  font-size:14px; 
+}
+#signup{
+
+}
+#img2{
+  
+}
